@@ -29,7 +29,7 @@ class sign_f(Function):
         output_all = inputs.new(inputs.size())
         output_all[inputs >= 0] = 1
         output[inputs >= 0.7] = 1
-        output[inputs < 0.] = 1
+        output[inputs < 0.4] = 1
         output_inter = output_all - output
         output_inter[inputs>=0] = 1
         ctx.save_for_backward(inputs)
