@@ -1,7 +1,7 @@
 # OCE-Net - PyTorch
 Official pytorch codes and models for paper:
 
-## [Orientation and Context Entangled Network for Retinal Vessel Segmentation](https://arxiv.org/pdf/2207.11396.pdf) \
+## [Orientation and Context Entangled Network for Retinal Vessel Segmentation](https://arxiv.org/pdf/2207.11396.pdf) 
 Expert Systems with Applications (ESWA)  (Top Journal, JCR Q1, IF=8.665)\
 **Xinxu Wei**, Kaifu Yang, Danilo Bzdok, and Yongjie Li
 
