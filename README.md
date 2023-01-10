@@ -229,16 +229,15 @@ joblib==1.1.0
 ````
 
 
-<!-- # Citation
-If you use this code for your research, please cite the following [paper](https://ieeexplore.ieee.org/abstract/document/9657795).
+# Citation
 
-````
-@inproceedings{wei2021sarn,
-  title={SARN: A Lightweight Stacked Attention Residual Network for Low-LightImage Enhancement},
-  author={Wei, Xinxu and Zhang, Xianshi and Li, Yongjie},
-  booktitle={2021 6th International Conference on Robotics and Automation Engineering (ICRAE)},
-  pages={275--279},
-  year={2021},
-  organization={IEEE}
+```
+@article{wei2022orientation,
+  title={Orientation and context entangled network for retinal vessel segmentation},
+  author={Wei, Xinxu and Yang, Kaifu and Bzdok, Danilo and Li, Yongjie},
+  journal={Expert Systems with Applications},
+  pages={119443},
+  year={2022},
+  publisher={Elsevier}
 }
-```` -->
+```
