@@ -19,7 +19,7 @@ You can get access to the datasets by clicking the links below!
 
 
 # Training
-You can train the model by runing **train.py**, the modelcan be trained and the checkpoint can be saved in the folder **experiments**.
+You can train the model by runing **train_unet.py**, the modelcan be trained and the checkpoint can be saved in the folder **experiments**.
 
 
 
